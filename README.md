@@ -33,3 +33,7 @@ Great thanks for these contributors:
 	<tr><td>Dutch</td><td>Shane Kloosterman</td></tr> 
 	<tr><td>Spanish</td><td>Jabes Valdepeñas,Camilo Dibsi</td></tr> 
 </table>
+
+If you still have any question, please feel free to contact us at: solo.launcher.dev@gmail.com
+
+
