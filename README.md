@@ -6,7 +6,8 @@ Help to translate the strings of Solo Launcher
 application that allows you to build a personalized homescreen experience on your Android devices. 
 
 
-<h3>Volunteers</h3>
+
+Great thanks for these contributors:
 
 <table cellspacing='0'>
 	<tr><th>•Language</th><th>•Volunteer(s)</th></tr>
